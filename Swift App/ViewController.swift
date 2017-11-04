@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         self.theLabel.text = "Send nudes"
         tapCount += 1
         print(tapCount)
-        if (tapCount >= 10){
+        if (tapCount >= 11){
             print("You've tapped the button 10 times!")
         }
     }
